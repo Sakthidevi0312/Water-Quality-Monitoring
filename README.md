@@ -57,6 +57,4 @@ Python MQTT subscriber that stores sensor data into MySQL database.
 - Cloud integration
 - AI-based water quality prediction
 
-## Author
 
-Prabhu
